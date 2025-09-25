@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Furkan Aras KARİMAN.I am a  freshman Computer Science student at Bilkent University.  
 <!--
 **furkanaraskariman/furkanaraskariman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
